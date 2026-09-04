@@ -158,7 +158,7 @@ This project helped me practice:
 * Constructors
 * Instance variables
 * Instance methods
-* `self`
+* self
 * Object interaction
 * Composition
 * Conditional statements
